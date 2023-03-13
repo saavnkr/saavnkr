@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sawankr
-- 👀 I’m interested in Artificial Intelligence and Data Science
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently working on Machine leanring research
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me: mail- saavnkr02@gmail.com
 
