@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sawankr
+- 👋 Hi, I’m @saavnkr
 - 🌱 I’m currently working on Machine leanring research
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me: mail- saavnkr02@gmail.com
